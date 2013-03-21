@@ -1,0 +1,9 @@
+{
+    "name": "csp4b2g",
+    "license": "MPL 2.0",
+    "author": "Mark Goodwin",
+    "version": "0.1",
+    "fullName": "csp4b2g",
+    "id": "jid1-lCKOeXMNBbKAnQ",
+    "description": "csp4b2g allows you to apply the b2g packaged app CSP to any top level document loaded in a tab where it is enabled"
+}
